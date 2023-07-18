@@ -34,5 +34,5 @@ Este repositório contém meu portfólio de projetos de ciência de dados. Estou
 
 **Contato:**
 
-* 👦 fonseca.nunes1996@gmail.com
-* ✉️ linkedin.com/in/gabriel-da-fonseca-nunes
+* 👦 [fonseca.nunes1996@gmail.com]
+* ✉️ [linkedin.com/in/gabriel-da-fonseca-nunes](https://www.linkedin.com/in/gabriel-da-fonseca-nunes/)

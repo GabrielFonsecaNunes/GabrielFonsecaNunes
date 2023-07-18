@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gabriel da Fonseca Nunes</h1>
-<h3 align="center">Data Scientist from Brazil, São Paulo</h3>
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h3 align="center">Hello, my name is Gabriel, I'm Control and Automation Engineer from FTT and graduating in Computer Science from the Federal University of ABC - UFABC. Experience as a Data Scientist in CRM Data Science at Banco Santander.</h3>
 
 - 👯 I’m looking to collaborate on **Automation, ML & Data Science Projects**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Working a Bank as Data Scientist](Working a Bank as Data Scientist)
 
-- ⚡ Fun fact **I am a calisthenics and bodybuilder**
+- ⚡ Fun fact **Love Sports and Work out**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

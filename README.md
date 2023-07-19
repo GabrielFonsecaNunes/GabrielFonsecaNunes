@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Gabriel
-#### Hello, I am Data Scientist and Python Developer. I'm Control and Automation Engineer from FTT and graduating in Computer Science from the Federal University of ABC - UFABC. Experience as a Data Scientist in CRM Data Science in the Financial Market.
+#### Hello, I am Data Scientist and Python Developer. I'm Control and Automation Engineer from FESA Engineering College Salvador Arena and Graduating in Computer Science from the Federal University of ABC - UFABC. Experience as a Data Scientist in CRM Data Science in the Financial Market.
 
 - 🔭 I’m currently working on ML & Data Science Projects 
 - 🌱 I’m currently learning about Generative IA, Causal Inference Explainability IA, MLOps

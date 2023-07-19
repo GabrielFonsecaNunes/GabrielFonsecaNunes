@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there 👋, I am Gabriel
+### Hi there 👋, I am Gabriel
 #### Hello, I am Data Scientist and Python Developer. I'm Control and Automation Engineer from FTT and graduating in Computer Science from the Federal University of ABC - UFABC. Experience as a Data Scientist in CRM Data Science at Finance Banks.
 
 - 🔭 I’m currently working on ML & Data Science Projects 
@@ -21,10 +21,9 @@
 
 <h3 align="left"> Contact:</h3>
 
-!linkedin.com/in/gabriel-da-fonseca-nunes
-
 ![https://www.linkedin.com/in/gabriel-da-fonseca-nunes/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![https://www.kaggle.com/gabrieldafonseca](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
 ![https://medium.com/@fonseca.nunes1996](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
